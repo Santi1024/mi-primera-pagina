@@ -83,6 +83,10 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 70px;
+}
+.greeting{
+  text-align: center;
 }
 @media (max-width: 768px) {
   .column {
